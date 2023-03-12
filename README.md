@@ -7,14 +7,9 @@ Aplicación desarrollada con NET. 6 y WinForms.
 Usuarios habilitados para inicial sesión:  
 
 USUARIO     CONTRASEÑA
-
-fcortez     Flamenco01@"
-
-pflores     Flamenco02@"
-
-jhernandez  Flamenco03@"
-
-eguerra     Flamenco04@"
-
-hramos      Flamenco05@"
+fcortez     Flamenco01@
+pflores     Flamenco02@
+jhernandez  Flamenco03@
+eguerra     Flamenco04@
+hramos      Flamenco05@
 
